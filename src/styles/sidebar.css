@@ -1,0 +1,65 @@
+.sidebar {
+    /* border: 2px solid blue; */
+    margin-left: 20px;
+    height: 100vh;
+    width: 300px;
+}
+
+.admin {
+    display: flex;
+    flex-direction: row;
+    /* border: 2px solid red; */
+}
+
+.admin_photo {
+    border: 2px solid black;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    margin: 20px;
+
+}
+
+.name {
+    /* background-color: aqua; */
+    border-radius: 50%;
+    height: 50px;
+    width: 100px;
+    /* margin: 20px; */
+    color: black;
+    margin-top: 35px;
+}
+
+.notify {
+    margin-top: 20px;
+    border-radius: 50%;
+    background-color: rgb(166, 169, 172);
+    padding: 10px;
+    /* height: 25px; */
+}
+
+.product {
+    /* height: 500px; */
+    width: 300px;
+    /* border: 2px solid red; */
+}
+
+.btn {
+    /* border: 2px solid black; */
+    text-align: center;
+}
+
+.btn span {
+    /* margin-top: 23px; */
+    padding: 2px;
+    background-color: lightgreen;
+    /* border-radius: 10px; */
+}
+
+h2 {
+    text-align: center;
+}
+
+.ttable {
+    background-color: #EBECF0;
+}

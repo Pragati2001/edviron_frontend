@@ -1,0 +1,29 @@
+.navbar {
+    height: 100vh;
+    width: 300px;
+    /* border: 2px solid rsed; */
+}
+
+ul {
+    margin: 30px;
+}
+
+li {
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+li p {
+    font-size: 20px;
+    margin: 7px;
+
+}
+
+.logo img {
+    margin: 8px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    width: 200px;
+}
